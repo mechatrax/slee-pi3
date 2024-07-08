@@ -3,7 +3,7 @@ Raspberry Pi OS (64-bit) Lite July 4th 2024 を元に変更を加えています
 
 ## イメージファイル
 イメージファイルは次のリンクからダウンロードできます。  
-[sleepi3-bookworm-lite-arm64-20240708.img.xz](https://mechatrax.com/data/sleepi3/sleepi3-bookworm-lite-arm64-20240708.img.xz)  
+[sleepi3-bookworm-lite-arm64-20240708.img.xz](https://mechatrax.com/data/slee-pi3/sleepi3-bookworm-lite-arm64-20240708.img.xz)  
 
 イメージファイルの SHA256 ハッシュ値は次のとおりです。
 ```
