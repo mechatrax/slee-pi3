@@ -19,3 +19,7 @@
   2.2 [sleepi3-monitor](../../wiki/ソフトウェア#22-sleepi3-monitor)  
   2.3 [sleepi3-utils](../../wiki/ソフトウェア#23-sleepi3-utils)  
   2.4 [python-sleepi](../../wiki/ソフトウェア#24-python-sleepi)
+
+### OS イメージ  
+OS イメージの詳細は次のリンク先を参照してください。  
+[OS イメージ](../../wiki/OSイメージ)  
