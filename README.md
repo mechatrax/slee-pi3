@@ -20,6 +20,7 @@
   2.3 [sleepi3-utils](../../wiki/ソフトウェア#23-sleepi3-utils)  
   2.4 [python-sleepi](../../wiki/ソフトウェア#24-python-sleepi)
 
-### OS イメージ  
-OS イメージの詳細は次のリンク先を参照してください。  
-[OS イメージ](../../wiki/OSイメージ)  
+### [OS イメージ](../../wiki/OSイメージ)  
+
+### [互換性情報](../../wiki/互換性情報)  
+* [Raspberry Pi 5](../../wiki/Raspberry-Pi-5)  
