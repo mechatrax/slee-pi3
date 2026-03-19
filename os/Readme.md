@@ -1,6 +1,10 @@
 ## リリースノート
 slee-Pi3 用 microSD カードにインストールされている OS イメージのリリースノートを公開しています。
 
+* ### sleepi3-trixie-lite-arm64-20260319
+  20260319 の記載があるものは本リリースの OS イメージがインストールされています。  
+  詳細は、[sleepi3-trixie-lite-arm64-20260319.md](./sleepi3-trixie-lite-arm64-20260319.md) を参照してください。
+
 * ### sleepi3-trixie-lite-arm64-20260205
   20260205 の記載があるものは本リリースの OS イメージがインストールされています。  
   詳細は、[sleepi3-trixie-lite-arm64-20260205.md](./sleepi3-trixie-lite-arm64-20260205.md) を参照してください。
