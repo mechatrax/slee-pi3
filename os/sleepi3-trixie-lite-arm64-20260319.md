@@ -16,6 +16,7 @@ Raspberry Pi OS からの変更内容は次のとおりです。
   * I2C を有効化
   * slee-Pi3 の誤動作を防ぐために core_freq=250 を設定
   * シリアルコンソールを有効化
+  * USB ポートの電流制限を緩和する設定を有効化
   * rootfs で ext4 の 64bit オプションを有効化
   * ハードウェアウォッチドッグタイマの監視に systemd を使用
   * APT::Periodic の無効化
