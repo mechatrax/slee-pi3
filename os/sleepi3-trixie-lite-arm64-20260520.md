@@ -1,6 +1,10 @@
 # sleepi3-trixie-lite-arm64-20260520
 Raspberry Pi OS (64-bit) Lite April 21st 2026 を元に変更を加えています。
 
+> [!WARNING]
+> 本イメージに同梱されているカーネル 6.18.29 に、特定条件下でカーネルパニックを引き起こすバグが含まれています。　　
+> 詳細および回避策は[弊社ブログ](https://mechatrax.com/blog/kernel-panic-202605/)をご確認ください。  
+
 ## イメージファイル
 イメージファイルは次のリンクからダウンロードできます。  
 [sleepi3-trixie-lite-arm64-20260520.img.xz](https://mechatrax.com/data/slee-pi3/sleepi3-trixie-lite-arm64-20260520.img.xz)  
